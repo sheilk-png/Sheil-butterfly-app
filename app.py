@@ -1,6 +1,7 @@
 import base64
 import requests
 import streamlit as st
+st.write("Streamlit version:", st.__version__)
 
 # ──────────────────────────────────────────────────────────────────────────────
 # Clean + Responsive Streamlit OIDC Starter + CNN Endpoint Prediction
